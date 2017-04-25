@@ -1,0 +1,382 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		DF45E3B31E89480600453F01 /* CCMWineryModel.m in Sources */ = {isa = PBXBuildFile; fileRef = DF45E3B21E89480600453F01 /* CCMWineryModel.m */; };
+		DF45E3B61E894E4000453F01 /* CCMWineryTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DF45E3B51E894E4000453F01 /* CCMWineryTableViewController.m */; };
+		DF4FA1031E868396009BC6A3 /* CCMWineViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DF4FA1011E868396009BC6A3 /* CCMWineViewController.m */; };
+		DF4FA1041E868396009BC6A3 /* CCMWineViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = DF4FA1021E868396009BC6A3 /* CCMWineViewController.xib */; };
+		DF5E2E311E8533D700D2B1EB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DF5E2E301E8533D700D2B1EB /* main.m */; };
+		DF5E2E341E8533D700D2B1EB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DF5E2E331E8533D700D2B1EB /* AppDelegate.m */; };
+		DF5E2E3C1E8533D700D2B1EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF5E2E3B1E8533D700D2B1EB /* Assets.xcassets */; };
+		DF5E2E3F1E8533D700D2B1EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF5E2E3D1E8533D700D2B1EB /* LaunchScreen.storyboard */; };
+		DF5E2E481E853C0A00D2B1EB /* CCMWineModel.m in Sources */ = {isa = PBXBuildFile; fileRef = DF5E2E471E853C0A00D2B1EB /* CCMWineModel.m */; };
+		DFADABBA1E87E51A000CD3A8 /* splitView_score_glass@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DFADABB91E87E51A000CD3A8 /* splitView_score_glass@2x.png */; };
+		DFADABBD1E87EA0B000CD3A8 /* bembibre.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DFADABBC1E87EA0B000CD3A8 /* bembibre.jpg */; };
+		DFF44FC31E87F6FF00DAEDB7 /* CCMWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DFF44FC11E87F6FF00DAEDB7 /* CCMWebViewController.m */; };
+		DFF44FC41E87F6FF00DAEDB7 /* CCMWebViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = DFF44FC21E87F6FF00DAEDB7 /* CCMWebViewController.xib */; };
+		DFF44FC61E881BCE00DAEDB7 /* champagne.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = DFF44FC51E881BCE00DAEDB7 /* champagne.jpeg */; };
+		DFF44FC81E881BDC00DAEDB7 /* zarate.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DFF44FC71E881BDC00DAEDB7 /* zarate.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		DF45E3B11E89480600453F01 /* CCMWineryModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCMWineryModel.h; sourceTree = "<group>"; };
+		DF45E3B21E89480600453F01 /* CCMWineryModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCMWineryModel.m; sourceTree = "<group>"; };
+		DF45E3B41E894E4000453F01 /* CCMWineryTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCMWineryTableViewController.h; sourceTree = "<group>"; };
+		DF45E3B51E894E4000453F01 /* CCMWineryTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCMWineryTableViewController.m; sourceTree = "<group>"; };
+		DF4FA1001E868396009BC6A3 /* CCMWineViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCMWineViewController.h; sourceTree = "<group>"; };
+		DF4FA1011E868396009BC6A3 /* CCMWineViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCMWineViewController.m; sourceTree = "<group>"; };
+		DF4FA1021E868396009BC6A3 /* CCMWineViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CCMWineViewController.xib; sourceTree = "<group>"; };
+		DF5E2E2C1E8533D700D2B1EB /* Baccus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Baccus.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DF5E2E301E8533D700D2B1EB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		DF5E2E321E8533D700D2B1EB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		DF5E2E331E8533D700D2B1EB /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		DF5E2E3B1E8533D700D2B1EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		DF5E2E3E1E8533D700D2B1EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		DF5E2E401E8533D700D2B1EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DF5E2E461E853C0A00D2B1EB /* CCMWineModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CCMWineModel.h; path = Baccus/Models/CCMWineModel.h; sourceTree = "<group>"; };
+		DF5E2E471E853C0A00D2B1EB /* CCMWineModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CCMWineModel.m; path = Baccus/Models/CCMWineModel.m; sourceTree = "<group>"; };
+		DFADABB91E87E51A000CD3A8 /* splitView_score_glass@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "splitView_score_glass@2x.png"; sourceTree = "<group>"; };
+		DFADABBC1E87EA0B000CD3A8 /* bembibre.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bembibre.jpg; sourceTree = "<group>"; };
+		DFF44FC01E87F6FF00DAEDB7 /* CCMWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCMWebViewController.h; sourceTree = "<group>"; };
+		DFF44FC11E87F6FF00DAEDB7 /* CCMWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCMWebViewController.m; sourceTree = "<group>"; };
+		DFF44FC21E87F6FF00DAEDB7 /* CCMWebViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CCMWebViewController.xib; sourceTree = "<group>"; };
+		DFF44FC51E881BCE00DAEDB7 /* champagne.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = champagne.jpeg; sourceTree = "<group>"; };
+		DFF44FC71E881BDC00DAEDB7 /* zarate.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = zarate.jpg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DF5E2E291E8533D700D2B1EB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DF4FA1051E86839F009BC6A3 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				DF45E3B41E894E4000453F01 /* CCMWineryTableViewController.h */,
+				DF45E3B51E894E4000453F01 /* CCMWineryTableViewController.m */,
+				DFF44FC01E87F6FF00DAEDB7 /* CCMWebViewController.h */,
+				DFF44FC11E87F6FF00DAEDB7 /* CCMWebViewController.m */,
+				DFF44FC21E87F6FF00DAEDB7 /* CCMWebViewController.xib */,
+				DF4FA1001E868396009BC6A3 /* CCMWineViewController.h */,
+				DF4FA1011E868396009BC6A3 /* CCMWineViewController.m */,
+				DF4FA1021E868396009BC6A3 /* CCMWineViewController.xib */,
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		DF5E2E231E8533D600D2B1EB = {
+			isa = PBXGroup;
+			children = (
+				DF5E2E2E1E8533D700D2B1EB /* Baccus */,
+				DF5E2E2D1E8533D700D2B1EB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DF5E2E2D1E8533D700D2B1EB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DF5E2E2C1E8533D700D2B1EB /* Baccus.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DF5E2E2E1E8533D700D2B1EB /* Baccus */ = {
+			isa = PBXGroup;
+			children = (
+				DFADABBB1E87E522000CD3A8 /* Resources */,
+				DF4FA1051E86839F009BC6A3 /* Controllers */,
+				DF5E2E491E853C1600D2B1EB /* Models */,
+				DF5E2E321E8533D700D2B1EB /* AppDelegate.h */,
+				DF5E2E331E8533D700D2B1EB /* AppDelegate.m */,
+				DF5E2E3B1E8533D700D2B1EB /* Assets.xcassets */,
+				DF5E2E3D1E8533D700D2B1EB /* LaunchScreen.storyboard */,
+				DF5E2E401E8533D700D2B1EB /* Info.plist */,
+				DF5E2E2F1E8533D700D2B1EB /* Supporting Files */,
+			);
+			path = Baccus;
+			sourceTree = "<group>";
+		};
+		DF5E2E2F1E8533D700D2B1EB /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				DF5E2E301E8533D700D2B1EB /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		DF5E2E491E853C1600D2B1EB /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				DF5E2E461E853C0A00D2B1EB /* CCMWineModel.h */,
+				DF5E2E471E853C0A00D2B1EB /* CCMWineModel.m */,
+				DF45E3B11E89480600453F01 /* CCMWineryModel.h */,
+				DF45E3B21E89480600453F01 /* CCMWineryModel.m */,
+			);
+			name = Models;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		DFADABBB1E87E522000CD3A8 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				DFF44FC71E881BDC00DAEDB7 /* zarate.jpg */,
+				DFF44FC51E881BCE00DAEDB7 /* champagne.jpeg */,
+				DFADABBC1E87EA0B000CD3A8 /* bembibre.jpg */,
+				DFADABB91E87E51A000CD3A8 /* splitView_score_glass@2x.png */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DF5E2E2B1E8533D700D2B1EB /* Baccus */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DF5E2E431E8533D700D2B1EB /* Build configuration list for PBXNativeTarget "Baccus" */;
+			buildPhases = (
+				DF5E2E281E8533D700D2B1EB /* Sources */,
+				DF5E2E291E8533D700D2B1EB /* Frameworks */,
+				DF5E2E2A1E8533D700D2B1EB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Baccus;
+			productName = Baccus;
+			productReference = DF5E2E2C1E8533D700D2B1EB /* Baccus.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DF5E2E241E8533D600D2B1EB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = user126733;
+				TargetAttributes = {
+					DF5E2E2B1E8533D700D2B1EB = {
+						CreatedOnToolsVersion = 8.2.1;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = DF5E2E271E8533D600D2B1EB /* Build configuration list for PBXProject "Baccus" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = DF5E2E231E8533D600D2B1EB;
+			productRefGroup = DF5E2E2D1E8533D700D2B1EB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DF5E2E2B1E8533D700D2B1EB /* Baccus */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		DF5E2E2A1E8533D700D2B1EB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DFF44FC81E881BDC00DAEDB7 /* zarate.jpg in Resources */,
+				DFADABBA1E87E51A000CD3A8 /* splitView_score_glass@2x.png in Resources */,
+				DF4FA1041E868396009BC6A3 /* CCMWineViewController.xib in Resources */,
+				DF5E2E3F1E8533D700D2B1EB /* LaunchScreen.storyboard in Resources */,
+				DFADABBD1E87EA0B000CD3A8 /* bembibre.jpg in Resources */,
+				DFF44FC61E881BCE00DAEDB7 /* champagne.jpeg in Resources */,
+				DF5E2E3C1E8533D700D2B1EB /* Assets.xcassets in Resources */,
+				DFF44FC41E87F6FF00DAEDB7 /* CCMWebViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DF5E2E281E8533D700D2B1EB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DF45E3B61E894E4000453F01 /* CCMWineryTableViewController.m in Sources */,
+				DFF44FC31E87F6FF00DAEDB7 /* CCMWebViewController.m in Sources */,
+				DF5E2E481E853C0A00D2B1EB /* CCMWineModel.m in Sources */,
+				DF5E2E341E8533D700D2B1EB /* AppDelegate.m in Sources */,
+				DF45E3B31E89480600453F01 /* CCMWineryModel.m in Sources */,
+				DF5E2E311E8533D700D2B1EB /* main.m in Sources */,
+				DF4FA1031E868396009BC6A3 /* CCMWineViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		DF5E2E3D1E8533D700D2B1EB /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DF5E2E3E1E8533D700D2B1EB /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		DF5E2E411E8533D700D2B1EB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		DF5E2E421E8533D700D2B1EB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		DF5E2E441E8533D700D2B1EB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Baccus/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = ccm.Baccus;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		DF5E2E451E8533D700D2B1EB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Baccus/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = ccm.Baccus;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DF5E2E271E8533D600D2B1EB /* Build configuration list for PBXProject "Baccus" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DF5E2E411E8533D700D2B1EB /* Debug */,
+				DF5E2E421E8533D700D2B1EB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DF5E2E431E8533D700D2B1EB /* Build configuration list for PBXNativeTarget "Baccus" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DF5E2E441E8533D700D2B1EB /* Debug */,
+				DF5E2E451E8533D700D2B1EB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DF5E2E241E8533D600D2B1EB /* Project object */;
+}
